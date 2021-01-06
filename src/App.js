@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello World! <br>
+      Hello World!
       This is Namer Afzal Khan AKA <b>NamerAK</b>
     </div>
   );
